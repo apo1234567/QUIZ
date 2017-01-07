@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86_64,x86"
+    api-level="22"
+    density="hdpi"
+    format="8"
+    plugin-version="2.2.2"
+    timestamp="4563570068649"
+    token="1649051961273628733"
+    verifier="FULL_BUILD_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="1004" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="383" />
+    <task
+        name="verifier"
+        duration="45" />
+
+    <artifact
+        location="/Users/apo/Desktop/QUIZFINAL/app/build/outputs/apk/app-debug.apk"
+        type="MAIN" />
+
+    <build
+        timestamp="4563570068649"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="/Users/apo/Desktop/QUIZFINAL/app/build/outputs/apk/app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>
